@@ -1,0 +1,14 @@
+.haystacks {
+  height: 160px;
+  width: 160px;
+}
+
+.new-guess {
+  height: 50px;
+  width: 50px;
+}
+
+.used-guess {
+  height: 50px;
+  width: 50px;
+}
