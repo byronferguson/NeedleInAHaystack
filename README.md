@@ -2,7 +2,7 @@
 
 Use the included boilerplate as a starting point to complete the challenge below.
 
-* Create a page that generates a random number of haystacks on the page.
+* Create a page that generates a random number of haystacks (3-12) on the page.
 * One of the haystacks should be randomly selected to "hide" a needle.
 * During the game the user has "X" number of guesses to locate the hidden needle by clicking on haystacks.
 * Clicked haystacks should be "squashed", and not selectable again for future guesses
