@@ -1,4 +1,5 @@
 # Needle in a Haystack
+[Working Example](https://byronferguson.github.io/NeedleInAHaystack)
 
 Use the included boilerplate as a starting point to complete the challenge below.
 
@@ -13,7 +14,7 @@ Use the included boilerplate as a starting point to complete the challenge below
 
 ---
 
-## EXTRA CREDIT
+## Extra Challenge Ideas
 
 * Animate the haystacks
   * `on.hover`
